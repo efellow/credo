@@ -1,0 +1,28 @@
+/* ===================================== GENERAL STYLES============================================== */
+
+*{
+    font-family: Raleway;
+}
+/* ===================================== SPECIFIC STYLES============================================== */
+.navbar{
+    margin: 0;
+}
+.wrapper{
+    padding-top: 0;
+    margin-top: 0;
+    background: url('../../assets/img/bg.jpg') 50%;
+    min-height: 550px;
+}
+#wrapper_text{
+    padding-top: 60px;
+}
+
+
+#clock_icon{
+    padding-left: 130px;
+}
+#intro_text {
+  -vendor-animation-duration: 3s;
+  -vendor-animation-delay: 4s;
+  
+}
